@@ -1,2 +1,2 @@
 # SelectionMenu
-Easy-to-use selection menus!
+An old thing that apparently makes menus. I don't know man, I just found this.
